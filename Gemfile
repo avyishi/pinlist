@@ -30,5 +30,9 @@ gem 'haml'
 
 gem 'paperclip'
 
+gem 'masonry-rails'
+
+gem 'acts_as_votable'
+
 
 
