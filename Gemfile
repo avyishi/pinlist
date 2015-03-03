@@ -28,5 +28,7 @@ gem 'bootstrap-sass', '~> 3.3.3'
 
 gem 'haml'
 
+gem 'paperclip'
+
 
 
